@@ -1,0 +1,170 @@
+
+ body {
+       background-image:url('../multipak.jpg');
+	   background-attachment: fixed;
+	   background-color: #4B4747;
+       margin:0px 0px; padding:0px;
+       margin-top: 0px; margin-bottom: 0px;
+
+}
+
+
+
+
+
+
+
+
+h1 {    
+       font-family: Georgia, Times New Roman, Times, serif;
+	   font-size:24px;
+       color: #C11B17;
+	   margin: 0px 50px; padding:0px;
+	   
+       
+	   margin-top: 0px; margin-bottom: 0px;
+       font-weight: normal;
+	   text-align: justify;
+	   
+
+
+}
+
+
+
+
+
+
+
+h2 {    
+       font-family: Georgia, Times New Roman, Times, serif;
+	   font-size:24px;
+       color: #C11B17;
+	   margin: 0px 50px; padding:0px;
+	   
+       
+	   margin-top: 0px; margin-bottom: 0px;
+       font-weight: normal;
+	   text-align: justify;
+	   
+
+
+}
+
+
+
+
+h3 {    
+       font-family: Georgia, Times New Roman, Times, serif;
+	   font-size:24px;
+       color: #C11B17;
+	 
+       font-weight: normal;
+	
+	   
+
+
+}
+
+
+
+
+
+
+p { color: #000;
+    margin:0px 50px; padding:0px;
+	
+	text-align: justify;
+	
+	font-family: arial ;
+	color:#381704;
+	font-size:16px;
+	font-weight:500;
+	line-height:150%;
+	padding:0px; 
+
+
+}
+
+
+ 
+ 
+ div {
+     color:white;
+ 
+ }
+
+/* The containing box for the gallery. */
+#container {
+    position:relative;
+    width:770px;
+    height:770px;
+    margin:0px auto 0 auto;
+    border:0px solid #000;
+    }
+	
+	
+	
+	
+	
+	/* Removing the list bullets and indentation */
+#container ul {
+    padding:0;
+    margin:0;
+    list-style-type:none;
+    }
+	
+	/* Remove the images and text from sight */
+#container a.gallery span {
+    position:absolute;
+    width:1px;
+    height:1px;
+    top:5px;
+    left:5px;
+    overflow:hidden;
+    background:#fff;
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+  
+div.fp-cat {
+   
+   height: 18px;
+   width: 767px;
+}
+  
+  
+
+
+  
+  
+  
+
+  
+  
+  
+
+
+
+#marquee
+{
+ margin:0px 0px; 
+ padding:0px;
+ margin-top: 0px; 
+ margin-bottom:0px;
+ margin-left: 480px;
+}
+
+
+
+
+
+
+
+
